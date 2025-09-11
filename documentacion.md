@@ -1,4 +1,4 @@
-# Proyecto: Plataforma web de pedidos universitarios
+# Proyecto: Plataforma web de pedidos 
 
 ---
 
