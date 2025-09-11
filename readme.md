@@ -40,10 +40,10 @@
 ## 4. Matriz RACI
 
 **Roles:**
-- **Persona 1** → Líder Backend  
-- **Persona 2** → Dev Backend  
-- **Persona 3** → Líder Frontend  
-- **Persona 4** → Dev Frontend  
+- **Persona 1 (Esteban Alexander Revelo)** → Líder Backend  
+- **Persona 2 (Juan Miguel Posso)** → Dev Backend  
+- **Persona 3 (Jhon Alejandro Martinez)** → Líder Frontend  
+- **Persona 4 (Nicolas Mauricio Rojas)** → Dev Frontend  
 
 | Entregable | P1 (Líder Back) | P2 (Dev Back) | P3 (Líder Front) | P4 (Dev Front) |
 |------------|-----------------|---------------|------------------|----------------|
