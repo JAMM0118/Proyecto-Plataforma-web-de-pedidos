@@ -1,7 +1,3 @@
-Perfecto 🚀. Tomando como base el PDF que enviaste sobre el **módulo de pedidos**, adapté la estructura para tu **módulo de login y registro** (estudiantes, restaurantes y cocineros). Te lo entrego en **formato Markdown**, con los apartados solicitados:
-
----
-
 # Artefactos de requisitos – Módulo Login y Registro
 
 ## 1. Plan de gestión de requisitos
@@ -111,7 +107,3 @@ Perfecto 🚀. Tomando como base el PDF que enviaste sobre el **módulo de pedid
 3. Se decide y documenta la resolución.
 4. Se actualiza backlog, RTM y documentación.
 5. Se comunica a los interesados.
-
----
-
-¿Quieres que también te prepare los **prototipos de baja fidelidad en Figma (estilo bosquejo)** para las tres pantallas clave (login, registro y recuperación)?
