@@ -1,8 +1,3 @@
----
-title: Plan de Gestión de Riesgos – Proyecto Punto H
-
----
-
 # Plan de Gestión de Riesgos – Proyecto Punto H
 
 **Proyecto:** Punto H – Aplicación Web para pedidos universitarios  
@@ -142,7 +137,7 @@ El **seguimiento y actualización** del registro de riesgos se realizará semana
 ---
 
 
-Documento elaborado por: *Nicolas Rojas, Esteban Revelo, Jhon Martinez, Juan Posso*  
+Documento elaborado por:  
 *Equipo Soft Integration – Universidad del Valle*  
 *Versión:* 1.0  
 *Fecha:* Octubre 2025
